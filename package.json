@@ -1,0 +1,19 @@
+{
+  "name": "life-after-layouts",
+  "description": "Gatsby layouts migration demo for V1 => V2",
+  "author": "Jason Lengstorf <jason@gatsbyjs.com>",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "gatsby": "^1.9.250",
+    "gatsby-link": "^1.6.40"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": false
+  }
+}
